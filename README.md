@@ -1,3 +1,7 @@
+Unleashing Bash Mastery: [Nr1 with Double the Power of Nr2! ⚡️](https://wakatime.com/leaders/language/bash)
+
+***
+
 ## To all my lost followers, 
 
 I want to address an unfortunate incident that occurred recently. Regrettably, I lost all my followers and previous commits. However, I want to assure you that I am back and determined to continue my work. Although some of my repositories may have been transferred to other users, I have managed to regain control of most of them. Unfortunately, I couldn't recover my followers.
@@ -16,3 +20,9 @@ Unfortunately, there isn't much I can do about it. In the meantime, I am investi
 Thank you for your understanding and continuous support.
 
 Best regards,
+
+***
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuseman&show_icons=true&theme=transparent)
+
+N
