@@ -27,4 +27,13 @@ Best regards,
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Bash                  56 hrs 2 mins   ███████████████▓░░░░░░░░░   62.00 %
+Other                 30 hrs 32 mins  ████████▒░░░░░░░░░░░░░░░░   33.79 %
+Markdown              2 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+HTML                  43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Vim Script            17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+```
+
 <!--END_SECTION:waka-->
