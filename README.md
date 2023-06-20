@@ -25,4 +25,6 @@ Best regards,
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuseman&show_icons=true&theme=transparent)
 
-N
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
