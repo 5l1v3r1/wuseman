@@ -19,7 +19,7 @@ For those of you who were following me before, I apologize if you are no longer 
 
 Here are some additional details and links:
 
-- Wayback Machine: You can access my latest cached profile at [github.com/wueman](https://web.archive.org/web/20230324173042/https://github.com/wuseman/)
+- Wayback Machine: You can access my latest cached profile at [github.com/wuseman](https://web.archive.org/web/20230324173042/https://github.com/wuseman/)
 
 Unfortunately, there isn't much I can do about it. In the meantime, I am investing significant effort into my website and new blog. Feel free to explore them at [https://www.nr1.nu](https://www.nr1.nu) and [https://nr1.nu/blog](https://nr1.nu/blog). Furthermore, I am actively contributing to the Gentoo wiki, which you can find at [wiki.gentoo.org](https://wiki.gentoo.org/wiki/Special:Contributions/Wuseman) if you are interested in my recent engagements that is public.
 
