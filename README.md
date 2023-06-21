@@ -9,12 +9,7 @@
 
 
 <details>
-<summary>## To all my lost followers, </summary>
-
-Content goes here...
-
-
-
+<summary><h2>To all my lost followers, please read </summary></h2>
 
 I want to address an unfortunate incident that occurred recently. Regrettably, I lost all my followers and previous commits. However, I want to assure you that I am back and determined to continue my work. Although some of my repositories may have been transferred to other users, I have managed to regain control of most of them. Unfortunately, I couldn't recover my followers.
 
