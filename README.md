@@ -1,5 +1,5 @@
 
-<h3>Nr1 with Double the Power of Nr2! <a href="https://wakatime.com/leaders/language/bash">@wakatime</a></h3>
+<h3>Nr1 with Tripple the Power of Nr2! <a href="https://wakatime.com/leaders/language/bash">@wakatime</a></h3>
 
 
 
